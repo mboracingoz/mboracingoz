@@ -1,31 +1,86 @@
- Bora Cingöz | Unity Gameplay Developer
+<h1 align="center">Hi 👋 I'm Bora Cingöz</h1>
 
-🕹️ Loading Profile...
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:0077b6&height=250&section=header&text=Bora%20Cingöz&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
-public class BoraCingoz : GameplayDeveloper {
-    // Ensuring high performance and scalable logic
-    string Status = "Building polished, feel-driven game mechanics";
-    string[] Focus = { "Modular AI Systems", "Responsive Combat", "SOLID Architecture" };
-    
-    public void Start() {
-        // Optimized for maintainability and rapid iteration
-        Debug.Log("Turning coffee into production-ready C# code.");
-    }
-}
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Unity+Developer;Gameplay+Systems+Programmer;C%23+Game+Developer;Building+Polished+Game+Projects"/>
+</p>
 
+---
 
-🛠 Tech Stack & Gear
+# 🚀 About Me
 
-🚀 Current Quest Log
+🎮 Unity developer focused on **gameplay programming**
 
-⚔️ Developing: Scalable Enemy AI systems utilizing Finite State Machines (FSM) and Behavior Trees to create challenging, reactive combat encounters.
+🧠 Interested in **game systems, AI and combat mechanics**
 
-🏗️ Architecting: Decoupled, reusable gameplay frameworks designed for modularity, allowing for rapid prototyping and stable portfolio expansion.
+⚙️ Writing **clean and maintainable C# code**
 
-📚 Learning: Deep-diving into ScriptableObject-based architectures to reduce scene dependency and implementing advanced Software Design Patterns for cleaner codebases.
+🌱 Currently learning **software design patterns and game architecture**
 
-🐧 Environment: Powering the entire development pipeline through Linux Mint, leveraging a lightweight and efficient OS for high-performance builds.
+---
 
-📊 Stats & Achievements
+# 🧠 Current Focus
 
-📱 Connect with the Dev
+- Unity gameplay programming  
+- Enemy AI systems  
+- Combat mechanics  
+- Clean project architecture  
+- Building playable portfolio projects  
+
+---
+
+# 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=unity,cs,cpp,git,blender,vscode,linux"/>
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mboracingoz&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mboracingoz&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mboracingoz&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=mboracingoz&theme=tokyonight"/>
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:boracingoz@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mustafa-bora-cing%C3%B6z/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077b6,100:00b4d8&height=120&section=footer"/>
+</p>
