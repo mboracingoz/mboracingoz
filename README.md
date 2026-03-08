@@ -13,10 +13,10 @@ My focus is gameplay programming, reusable systems, and writing maintainable cod
 - Building playable portfolio projects
 
 ## Tech Stack
-- Unity 2022.3
+- Unity Game Engine
 - C#
+- C++
 - Git & GitHub
-- Visual Studio Code
 - Blender
 - Linux Mint
 
