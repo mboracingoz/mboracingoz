@@ -35,16 +35,20 @@
 # 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=unity,cs,cpp,git,blender,vscode,linux"/>
+<img src="https://skillicons.dev/icons?i=unity,cs,cpp,git,blender,python,linux"/>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Bora's GitHub stats](https://github-readme-stats.vercel.app/api?username=mboracingoz&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mboracingoz&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=mboracingoz&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mboracingoz&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+</p>
 
 ---
 
