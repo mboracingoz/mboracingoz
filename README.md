@@ -42,10 +42,9 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=mboracingoz&show_icons=true&theme=tokyonight"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mboracingoz&layout=compact&theme=tokyonight"/>
-</p>
+![Bora's GitHub stats](https://github-readme-stats.vercel.app/api?username=mboracingoz&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mboracingoz&layout=compact&theme=tokyonight)
 
 ---
 
